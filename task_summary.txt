@@ -1,0 +1,16 @@
+📘 Scheduling Summary
+====================
+
+🕓 Average Waiting Time: 0.00 minutes
+⏳ Average Turnaround Time: 67.00 minutes
+
+🚀 Execution Order:
+1. jffejfoe
+
+📋 Task Details:
+jffejfoe:
+  Priority: 1
+  Duration: 67 minutes
+  Waiting Time: 0 minutes
+  Turnaround Time: 67 minutes
+

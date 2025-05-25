@@ -1,0 +1,10 @@
+{
+  "averageWaitingTime": 0.00,
+  "averageTurnaroundTime": 67.00,
+  "executionOrder": [
+    "jffejfoe"
+  ],
+  "taskDetails": [
+    {"name": "jffejfoe", "priority": 1, "burst_time": 67, "waitingTime": 0, "turnaroundTime": 67}
+  ]
+}
